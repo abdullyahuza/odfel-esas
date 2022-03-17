@@ -1,6 +1,4 @@
 <?php 
-//created by Auwal jaizz
-	error_reporting();
 	include 'config/db.php';
     include 'config/functional.php';
 

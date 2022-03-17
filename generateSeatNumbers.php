@@ -1,19 +1,19 @@
 <?php
 session_start();
-include 'config/db.php';
-include 'config/functional.php';
+include './config/db.php';
+include './config/functional.php';
 ?>
 <!DOCTYPE html>
 	<html lang="en">
 
-		<?php	require_once 'includes/header.php'?>
+		<?php	require_once './includes/header.php'?>
 
 		<body>
 
 			<div class="click-closed">
 			</div>
 
-			<?php	require_once 'includes/navBar.php'?>
+			<?php	require_once './includes/navBar.php'?>
 
 			<br><br>
 

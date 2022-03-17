@@ -1,6 +1,6 @@
 <?php
 session_start();
-include 'config/db.php';
+include './config/db.php';
 ?>
 <!DOCTYPE html>
 	<html lang="en">
@@ -60,7 +60,7 @@ include 'config/db.php';
 									</div>
 
                       <div class="form-group col-md-4 offset-sm-4">
-                        <button class="form-control btn btn-success" name="new_venue" type="submit">Submit</button>
+                        <button class="form-control btn btn-success" name="new_venue">Submit</button>
                       </div>
                     </form>
 
