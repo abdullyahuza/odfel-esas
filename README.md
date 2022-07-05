@@ -1,4 +1,4 @@
 # odfel-esas
 
-#### A System design for random seat allocation to students taking a course for exam.
+#### A system for allocating seats at random to students attending a course for an exam.
 #####  Designed for odfel Kaduna polytechnic Kaduna.
